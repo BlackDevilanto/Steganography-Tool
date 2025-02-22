@@ -25,14 +25,14 @@ Steganography is the practice of concealing messages within digital media. This 
 Ensure you have the following Python libraries installed:
 
 ```bash
-pip install pillow numpy cryptography streamlit
+pip install pillow numpy cryptography streamlit fernet
 ```
 
 ## 🚀 Installation
 Ensure Python is installed on your system.
 
 ```bash
-pip install pillow numpy cryptography streamlit
+pip install pillow numpy cryptography streamlit fernet
 ```
 
 ## 🎮 Usage
